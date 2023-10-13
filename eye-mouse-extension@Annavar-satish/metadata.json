@@ -1,0 +1,15 @@
+{
+    "name": "eye-mouse-extension",
+    "description": "My GNOME Shell Extension",
+    "shell-version": ["3.38", "3.40", "3.42", "45"],
+    "uuid": "eye-mouse-extension@Annavar-satish",
+    "url": "https://github.com/Annavar-satish/eye-mouse-extension",
+    "settings-schema": "org.gnome.shell.extensions.eye-mouse-extension",
+    "gettext-domain": "eye-mouse-extension",
+    "stylesheet": "stylesheet.css",
+    "resources": [
+      "extension.js",
+      "stylesheet.css"
+    ]
+  }
+  

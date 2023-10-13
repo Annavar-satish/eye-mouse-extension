@@ -1,0 +1,14 @@
+/* stylesheet.css */
+
+/* Style for the circle */
+.circle {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+/* Style for the line */
+.line {
+    background-color: yellow;
+}
